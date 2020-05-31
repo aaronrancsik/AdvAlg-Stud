@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.5.21)  31 MAY 2020 23:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.5.21)  1 JUN 2020 00:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -795,7 +795,14 @@ File: ./images/ga/apngframe80.jpg Graphic file (type jpg)
 <use ./images/ga/apngframe80.jpg>
 Package pdftex.def Info: ./images/ga/apngframe80.jpg  used on input line 245.
 (pdftex.def)             Requested size: 578.15858pt x 471.76134pt.
- <./images/ga/apngframe80.jpg> <a0,fr79> <a0,fr80> [5] [6
+ <./images/ga/apngframe80.jpg> <a0,fr79> <a0,fr80>
+Overfull \hbox (30.7247pt too wide) in paragraph at lines 244--247
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][] 
+ []
+
+[5] [6
 
 ]
 Overfull \hbox (26.34448pt too wide) in paragraph at lines 297--299
@@ -964,7 +971,15 @@ File: ./images/ro/apngframe159.jpg Graphic file (type jpg)
 Package pdftex.def Info: ./images/ro/apngframe159.jpg  used on input line 382.
 (pdftex.def)             Requested size: 618.30849pt x 381.42406pt.
  <./images/ro/apngframe159.jpg> <a1,fr122> <a1,fr123>
-<a1,fr124> [9] [10
+<a1,fr124>
+Overfull \hbox (30.74603pt too wide) in paragraph at lines 381--384
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][] 
+ []
+
+[9] [10
 
 ]
 Overfull \hbox (41.16101pt too wide) in paragraph at lines 438--439
@@ -987,16 +1002,241 @@ Overfull \hbox (139.69324pt too wide) in paragraph at lines 498--499
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 517--519
-
+<./images/hc/apngframe001.jpg, id=1391, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe001.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe001.jpg>
+Package pdftex.def Info: ./images/hc/apngframe001.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe001.jpg> <a2,fr0> <a2,fr1> <a2,fr2> <a2,fr3>
+<a2,fr4> <a2,fr5> <a2,fr6> <a2,fr7> <a2,fr8> <a2,fr9> <a2,fr10>
+<./images/hc/apngframe012.jpg, id=1452, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe012.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe012.jpg>
+Package pdftex.def Info: ./images/hc/apngframe012.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe012.jpg> <a2,fr11> <a2,fr12>
+<./images/hc/apngframe014.jpg, id=1467, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe014.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe014.jpg>
+Package pdftex.def Info: ./images/hc/apngframe014.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe014.jpg> <a2,fr13>
+<./images/hc/apngframe015.jpg, id=1477, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe015.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe015.jpg>
+Package pdftex.def Info: ./images/hc/apngframe015.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe015.jpg> <a2,fr14> <a2,fr15>
+<./images/hc/apngframe017.jpg, id=1492, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe017.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe017.jpg>
+Package pdftex.def Info: ./images/hc/apngframe017.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe017.jpg> <a2,fr16>
+<./images/hc/apngframe018.jpg, id=1502, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe018.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe018.jpg>
+Package pdftex.def Info: ./images/hc/apngframe018.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe018.jpg> <a2,fr17>
+<./images/hc/apngframe019.jpg, id=1512, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe019.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe019.jpg>
+Package pdftex.def Info: ./images/hc/apngframe019.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe019.jpg> <a2,fr18> <a2,fr19> <a2,fr20>
+<./images/hc/apngframe022.jpg, id=1532, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe022.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe022.jpg>
+Package pdftex.def Info: ./images/hc/apngframe022.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe022.jpg> <a2,fr21>
+<a2,fr22> <a2,fr23>
+<./images/hc/apngframe025.jpg, id=1552, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe025.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe025.jpg>
+Package pdftex.def Info: ./images/hc/apngframe025.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe025.jpg> <a2,fr24> <a2,fr25>
+<a2,fr26>
+<./images/hc/apngframe028.jpg, id=1572, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe028.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe028.jpg>
+Package pdftex.def Info: ./images/hc/apngframe028.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe028.jpg> <a2,fr27> <a2,fr28> <a2,fr29>
+<a2,fr30> <a2,fr31>
+<./images/hc/apngframe033.jpg, id=1602, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe033.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe033.jpg>
+Package pdftex.def Info: ./images/hc/apngframe033.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe033.jpg> <a2,fr32>
+<./images/hc/apngframe034.jpg, id=1612, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe034.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe034.jpg>
+Package pdftex.def Info: ./images/hc/apngframe034.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe034.jpg> <a2,fr33>
+<./images/hc/apngframe035.jpg, id=1622, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe035.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe035.jpg>
+Package pdftex.def Info: ./images/hc/apngframe035.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe035.jpg> <a2,fr34> <a2,fr35>
+<a2,fr36>
+<./images/hc/apngframe038.jpg, id=1642, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe038.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe038.jpg>
+Package pdftex.def Info: ./images/hc/apngframe038.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe038.jpg> <a2,fr37> <a2,fr38> <a2,fr39>
+<./images/hc/apngframe041.jpg, id=1662, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe041.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe041.jpg>
+Package pdftex.def Info: ./images/hc/apngframe041.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe041.jpg> <a2,fr40> <a2,fr41> <a2,fr42>
+<./images/hc/apngframe044.jpg, id=1683, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe044.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe044.jpg>
+Package pdftex.def Info: ./images/hc/apngframe044.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe044.jpg> <a2,fr43> <a2,fr44> <a2,fr45>
+<./images/hc/apngframe047.jpg, id=1703, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe047.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe047.jpg>
+Package pdftex.def Info: ./images/hc/apngframe047.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe047.jpg> <a2,fr46>
+<./images/hc/apngframe048.jpg, id=1713, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe048.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe048.jpg>
+Package pdftex.def Info: ./images/hc/apngframe048.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe048.jpg> <a2,fr47>
+<./images/hc/apngframe049.jpg, id=1723, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe049.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe049.jpg>
+Package pdftex.def Info: ./images/hc/apngframe049.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe049.jpg> <a2,fr48>
+<a2,fr49>
+<./images/hc/apngframe051.jpg, id=1738, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe051.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe051.jpg>
+Package pdftex.def Info: ./images/hc/apngframe051.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe051.jpg> <a2,fr50> <a2,fr51> <a2,fr52>
+<a2,fr53> <a2,fr54> <a2,fr55> <a2,fr56> <a2,fr57>
+<./images/hc/apngframe059.jpg, id=1783, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe059.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe059.jpg>
+Package pdftex.def Info: ./images/hc/apngframe059.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe059.jpg> <a2,fr58>
+<./images/hc/apngframe060.jpg, id=1793, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe060.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe060.jpg>
+Package pdftex.def Info: ./images/hc/apngframe060.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe060.jpg> <a2,fr59> <a2,fr60>
+<./images/hc/apngframe062.jpg, id=1808, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe062.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe062.jpg>
+Package pdftex.def Info: ./images/hc/apngframe062.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe062.jpg> <a2,fr61> <a2,fr62>
+<./images/hc/apngframe064.jpg, id=1823, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe064.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe064.jpg>
+Package pdftex.def Info: ./images/hc/apngframe064.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe064.jpg> <a2,fr63>
+<./images/hc/apngframe065.jpg, id=1833, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe065.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe065.jpg>
+Package pdftex.def Info: ./images/hc/apngframe065.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe065.jpg> <a2,fr64>
+<./images/hc/apngframe066.jpg, id=1843, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe066.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe066.jpg>
+Package pdftex.def Info: ./images/hc/apngframe066.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe066.jpg> <a2,fr65>
+<./images/hc/apngframe067.jpg, id=1853, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe067.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe067.jpg>
+Package pdftex.def Info: ./images/hc/apngframe067.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe067.jpg> <a2,fr66> <a2,fr67>
+<./images/hc/apngframe069.jpg, id=1868, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe069.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe069.jpg>
+Package pdftex.def Info: ./images/hc/apngframe069.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe069.jpg> <a2,fr68> <a2,fr69> <a2,fr70> <a2,fr71> <a2,fr7
+2> <a2,fr73> <a2,fr74>
+<./images/hc/apngframe076.jpg, id=1908, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe076.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe076.jpg>
+Package pdftex.def Info: ./images/hc/apngframe076.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe076.jpg> <a2,fr75>
+<./images/hc/apngframe077.jpg, id=1918, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe077.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe077.jpg>
+Package pdftex.def Info: ./images/hc/apngframe077.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe077.jpg> <a2,fr76>
+<a2,fr77> <a2,fr78>
+<./images/hc/apngframe080.jpg, id=1939, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe080.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe080.jpg>
+Package pdftex.def Info: ./images/hc/apngframe080.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe080.jpg> <a2,fr79> <a2,fr80>
+<a2,fr81>
+<./images/hc/apngframe083.jpg, id=1959, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe083.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe083.jpg>
+Package pdftex.def Info: ./images/hc/apngframe083.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe083.jpg> <a2,fr82> <a2,fr83> <a2,fr84>
+<./images/hc/apngframe086.jpg, id=1979, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe086.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe086.jpg>
+Package pdftex.def Info: ./images/hc/apngframe086.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe086.jpg> <a2,fr85> <a2,fr86>
+<./images/hc/apngframe088.jpg, id=1994, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe088.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe088.jpg>
+Package pdftex.def Info: ./images/hc/apngframe088.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe088.jpg>
+<a2,fr87>
+<./images/hc/apngframe089.jpg, id=2004, 845.1575pt x 523.9575pt>
+File: ./images/hc/apngframe089.jpg Graphic file (type jpg)
+<use ./images/hc/apngframe089.jpg>
+Package pdftex.def Info: ./images/hc/apngframe089.jpg  used on input line 518.
+(pdftex.def)             Requested size: 845.15544pt x 523.95622pt.
+ <./images/hc/apngframe089.jpg> <a2,fr88> <a2,fr89> <a2,fr90>
+<a2,fr91> <a2,fr92> <a2,fr93> <a2,fr94> <a2,fr95> <a2,fr96> <a2,fr97>
+<a2,fr98> <a2,fr99> <a2,fr100> <a2,fr101>
+Overfull \hbox (30.73709pt too wide) in paragraph at lines 517--519
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 [13] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 20351 strings out of 492167
- 361396 string characters out of 6131558
+ 21074 strings out of 492167
+ 383091 string characters out of 6131558
  667379 words of memory out of 5000000
- 24344 multiletter control sequences out of 15000+600000
+ 25030 multiletter control sequences out of 15000+600000
  540345 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,7n,97p,814b,1597s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1006,10 +1246,10 @@ enc}</usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share
 ts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public
 /cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1
 440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (14 pages, 4934927 bytes).
+Output written on main.pdf (14 pages, 7254130 bytes).
 PDF statistics:
- 1419 PDF objects out of 1440 (max. 8388607)
- 813 compressed objects within 9 object streams
+ 2125 PDF objects out of 2487 (max. 8388607)
+ 1204 compressed objects within 13 object streams
  0 named destinations out of 1000 (max. 500000)
- 3376 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
