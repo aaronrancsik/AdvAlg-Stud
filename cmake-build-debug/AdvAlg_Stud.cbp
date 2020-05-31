@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AdvAlg_Stud"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AdvAlg_Stud">
+				<Option output="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/AdvAlg_Stud" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization"/>
+					<Add directory="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Utils"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 AdvAlg_Stud"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AdvAlg_Stud/fast">
+				<Option output="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/AdvAlg_Stud" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization"/>
+					<Add directory="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Utils"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 AdvAlg_Stud/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Main.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/FunctionApproximation.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/FunctionApproximation.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/ImageSegmentation.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/ImageSegmentation.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/PathFinding.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/PathFinding.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/SmallestBoundaryPolygon.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/SmallestBoundaryPolygon.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/TravellingSalesman.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/TravellingSalesman.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/WorkAssignment.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/WorkAssignment.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/stdafx.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/stdafx.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Optimization/targetver.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Solvers/GeneticAlgo.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Solvers/GeneticAlgo.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Solvers/HillClimbAlgo.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Solvers/RandomOptAlgo.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Utils/Animlog.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Utils/Animlog.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Utils/Random.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Utils/Random.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Utils/TextLog.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Utils/TextLog.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Utils/stdafx.cpp">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Utils/stdafx.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/Utils/targetver.h">
+			<Option target="AdvAlg_Stud"/>
+		</Unit>
+		<Unit filename="/home/aaron/Documents/OE/6felev/halal/AdvAlg-Stud/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
